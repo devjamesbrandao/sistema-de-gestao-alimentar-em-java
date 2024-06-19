@@ -12,10 +12,13 @@
     <img src="/imagens/imagem-tela-de-produto-buscado-com-ingredientes.png" alt="Tela de produto com ingredientes" title="Tela de produto com ingredientes">
 </p> 
 
-### `Handle responsável pela autenticação JWT`
+### `Tela onde o sistema informa se pode ou não consumir determinado produto`
 <p align="center">
-    <img src="/Img/handler.png" alt="Handle responsável pela autenticação JWT" title="Handle responsável pela autenticação JWT">
+    <img src="/imagens/tela-de-aviso-se-pode-ou-nao-consumir-o-produto.png" alt="Tela onde o sistema informa se pode ou não consumir determinado produto" title="Tela onde o sistema informa se pode ou não consumir determinado produto">
 </p> 
 
-# `Referências`
-* ASP.NET Core e Refit: simplificando a comunicação entre APIs: https://www.luisdev.com.br/2020/08/05/asp-net-core-e-refit-simplificando-a-comunicacao-entre-apis/
+# `Proprietário: James Noleto Brandao`
+
+# `Projeto de extensão estácio - Programação orientada a objetos em Java`
+
+# `Link artigo no Linkedin: https://pt.linkedin.com/pulse/o-desafio-das-intoler%C3%A2ncias-alimentares-james-brandao-qadif?trk=public_post_feed-article-content`
