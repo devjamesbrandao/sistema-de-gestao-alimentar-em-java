@@ -4,12 +4,12 @@
 
 ### `Tela de busca de produtos por meio de código de barras`
 <p align="center">
-    <img src="/Img/api-pagamentos.png" alt="Swagger API de pagamentos" title="Swagger API de pagamentos">
+    <img src="/imagens/imagem-tela-de-codigo-de-barras.png" alt="Tela de busca de produtos por meio de código de barras" title="Tela de busca de produtos por meio de código de barras">
 </p> 
 
-### `Configuração do Refit`
+### `Tela de produto com ingredientes`
 <p align="center">
-    <img src="/Img/refit.png" alt="Configuração do Refit" title="Configuração do Refit">
+    <img src="/imagens/imagem-tela-de-produto-buscado-com-ingredientes.png" alt="Tela de produto com ingredientes" title="Tela de produto com ingredientes">
 </p> 
 
 ### `Handle responsável pela autenticação JWT`
