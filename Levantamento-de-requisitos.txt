@@ -1,0 +1,6 @@
+* Ler código de barras informado pelo usuário
+* Buscar produto na base de dados
+* Ler restrição alimentar informada pelo usuário (glúten, lactose)
+* Verificar se o usuário pode ou não consumir o alimento com base nos seus ingredientes e na restrição alimentar informada pelo usuário
+* Cadastrar produto
+* Cadastrar ingredientes do produto
