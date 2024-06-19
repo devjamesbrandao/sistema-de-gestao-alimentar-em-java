@@ -2,7 +2,7 @@
 
 <hr/>
 
-### `Swagger API de pagamentos`
+### `Tela de busca de produtos por meio de código de barras`
 <p align="center">
     <img src="/Img/api-pagamentos.png" alt="Swagger API de pagamentos" title="Swagger API de pagamentos">
 </p> 
